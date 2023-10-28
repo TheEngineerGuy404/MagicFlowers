@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:recipe_crafted","conditions":{"recipe_id":"magicflowers:blue_orchid"}}},"rewards":{"function":"magicflowers:crafting/blue_orchid"}}

@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:recipe_crafted","conditions":{"recipe_id":"magicflowers:lilac"}}},"rewards":{"function":"magicflowers:crafting/lilac"}}

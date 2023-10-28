@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:recipe_crafted","conditions":{"recipe_id":"magicflowers:lily_of_the_valley"}}},"rewards":{"function":"magicflowers:crafting/lily_of_the_valley"}}
